@@ -25,6 +25,9 @@ passwd
 touch /.autorelabel
 exit
 exit
-'''
+  '''
+
 7. The system will reboot automatically, and the root password will be updated.
+
+
    
